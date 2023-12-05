@@ -1,5 +1,5 @@
 # CashFlowForecast
-A simple cash flow forecasting tool to predict cash flow for the next month.
+A simple cash flow forecasting tool to predict cash flow for the next month. It is primarily front-end based by use of HTML, CSS, Javascript.
 
 ## Setup
 The project contains a HTML file and a JS file. It is simple to setup by cloning the repository directly to your device and opening the HTML file using your browser of choice(preferably Chrome, Edge).
